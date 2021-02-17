@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Demo JSON Parsing</string>
+    <string name="jsondata">
+        {
+    \"formulas\":
+        [
+    \"Linear Motion\",
+    \"Constant Acceleration Motion\",
+    \"Projectile Motion\",
+    \"Force\",
+    \"Work, Power, Energy\",
+    \"Rotary Motion\",
+    \"Harmonic Mottion\",
+    \"Gravity\",
+    \"Electrostatics\"
+    ]
+    }
+</string>
+<string name="jsonStudentData">
+{
+"students": [
+{
+"name" : "XYZ",
+branch": "IT"
+},
+{
+"name" :"ABC",
+"branch": "CE
+},
+{
+"name" :"PQR",
+"branch": "MCA"
+]}
+</string>
+
+</resources>
